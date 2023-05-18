@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) {
 
 function inject_nreach_script()
 {
-    echo '<script type="module" src="https://lc.nreach.tech/chatwidget.js"></script>';
+    echo '<script type="module" defer src="https://lc.nreach.tech/chatwidget.js"></script>';
 }
 
 add_action('wp_head', 'inject_nreach_script');
