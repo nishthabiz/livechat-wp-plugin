@@ -11,6 +11,9 @@ Adds the nReach livechat widget to any wordpress site
 
 == Changelog ==
 
+= 1.0.1 =
+Do not display widget on Elementor preview.
+
 = 1.0.0 =
 Initial release.
 
