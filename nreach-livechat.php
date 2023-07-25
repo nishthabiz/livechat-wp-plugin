@@ -4,10 +4,9 @@
  * nReach Livechat
  *
  * Plugin Name: nReach Livechat
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: http://www.nreach.tech/
  * Description: Simple plugin to install the nReach Livechat widget onto any Wordpress site.
- * Version:     1.0.0
  * Author: Nishtha
  * Author URI: http://www.nishtha.biz/
  * Requires at least: 4.9
