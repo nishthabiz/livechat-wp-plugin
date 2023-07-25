@@ -21,6 +21,7 @@ if (!defined('ABSPATH')) {
 
 function inject_nreach_script()
 {
+    if (\Elementor\Plugin::$instance->preview->is_preview_mode()) return;
     echo '<script type="module" defer src="https://lc.nreach.tech/chatwidget.js"></script>';
 }
 
