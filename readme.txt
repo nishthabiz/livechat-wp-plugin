@@ -15,7 +15,7 @@ WARNING: This plugin requires a subscription with nReach Livechat in order to fu
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.0.2 =
 Add GPLv3 licensing
 
 = 1.0.1 =
