@@ -7,7 +7,9 @@ Requires PHP: 5.6 or later
 
 == Description ==
 
-Adds the nReach livechat widget to any wordpress site
+Simple plugin to install the nReach Livechat widget onto any Grav site.
+
+WARNING: This plugin requires a subscription with nReach Livechat in order to function correclty. Please ensure you have a valid subscription before using this plugin: https://www.nreach.tech/nreach-live-chat/
 
 == Changelog ==
 
@@ -21,4 +23,4 @@ Initial release.
 
 = Are there any settings? =
 
-No, there are no settings.
+No, there are no settings within the plugin, all aspects of the widget are controlled with the livechat dashboard.
