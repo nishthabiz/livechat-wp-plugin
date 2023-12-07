@@ -2,18 +2,27 @@
 Contributors: Nishtha
 Tags: livechat, nishtha, nreach
 Requires at least: 4.9
-Tested up to: 6.2
+Tested up to: 6.4
+Stable tag: 1.0.3
 Requires PHP: 5.6 or later
 License: GPLv3
 License Url: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Simple plugin to install the nReach Livechat widget onto any Grav site.
+Offical nReach Livechat plugin.
 
-WARNING: This plugin requires a subscription with nReach Livechat in order to function correclty. Please ensure you have a valid subscription before using this plugin: https://www.nreach.tech/nreach-live-chat/
+Simple plugin to install the nReach Livechat widget onto any Wordpress site.
+
+WARNING: This plugin requires a subscription with nReach Livechat in order to function correclty. Please ensure you have a valid subscription before using this plugin: https://www.nreach.tech/nreach-live-chat/. THIS PLUGIN WILL NOT FUNCTION WITHOUT A VALID SUBSCRIPTION!
+
+nReach LC Terms and Conditions : https://www.nreach.tech/terms-and-conditions/
+nReach LC Privacy Policy : https://www.nreach.tech/privacy-policy/
 
 == Changelog ==
+
+= 1.0.3 =
+Update function naming
 
 = 1.0.2 =
 Add GPLv3 licensing
