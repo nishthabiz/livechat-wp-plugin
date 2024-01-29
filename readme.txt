@@ -1,4 +1,4 @@
-=== nReach Livechat Widget ===
+=== nReach LiveChat Widget ===
 Contributors: Nishtha
 Tags: livechat, nishtha, nreach
 Requires at least: 4.9
@@ -10,11 +10,11 @@ License Url: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Offical nReach Livechat plugin.
+Offical nReach LiveChat plugin.
 
-Simple plugin to install the nReach Livechat widget onto any Wordpress site.
+Simple plugin to install the nReach LiveChat widget onto any Wordpress site.
 
-WARNING: This plugin requires a subscription with nReach Livechat in order to function correclty. Please ensure you have a valid subscription before using this plugin: https://www.nreach.tech/nreach-live-chat/. THIS PLUGIN WILL NOT FUNCTION WITHOUT A VALID SUBSCRIPTION!
+WARNING: This plugin requires a subscription with nReach LiveChat in order to function correclty. Please ensure you have a valid subscription before using this plugin: https://www.nreach.tech/nreach-live-chat/. THIS PLUGIN WILL NOT FUNCTION WITHOUT A VALID SUBSCRIPTION!
 
 Installing this plugin means visitors of your Wordpress website will send requests to the nReach Live Chat API. This API is managed separately by nReach (https://nreach.tech/) and is not affiliated with Wordpress (https://wordpress.org/). The only data sent to the nReach Live Chat API is data your visitors enter into the nReach Live Chat widget.
 
