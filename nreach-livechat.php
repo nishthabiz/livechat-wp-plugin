@@ -23,7 +23,7 @@ if (!defined('ABSPATH')) {
 function nreach_lc_inject_script()
 {
     if (class_exists("Elementor\Plugin") && \Elementor\Plugin::$instance->preview->is_preview_mode()) return;
-    wp_enqueue_script("nreach-livechat-widget", "https://lc.nreach.tech/chatwidget.js", [], false, ["strategy" => "async", "in_footer" => true]);
+    wp_enqueue_script("nreach-livechat-widget", "https://wc.nreach.tech/chatwidget.js", [], false, ["strategy" => "async", "in_footer" => true]);
 }
 
 add_action('wp_head', 'nreach_lc_inject_script');
