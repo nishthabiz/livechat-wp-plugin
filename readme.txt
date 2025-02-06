@@ -3,7 +3,7 @@ Contributors: Nishtha
 Tags: livechat, nishtha, nreach
 Requires at least: 4.9
 Tested up to: 6.7
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 Requires PHP: 5.6 or later
 License: GPLv3
 License Url: https://www.gnu.org/licenses/gpl-3.0.html
@@ -22,6 +22,9 @@ nReach LC Terms and Conditions : https://www.nreach.tech/terms-and-conditions/
 nReach LC Privacy Policy : https://www.nreach.tech/privacy-policy/
 
 == Changelog ==
+
+= 1.0.7 =
+Add script tag with type module
 
 = 1.0.6 =
 Update URL for widget script
